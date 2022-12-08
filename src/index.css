@@ -1,0 +1,50 @@
+html {
+    font-family: 'Cairo';
+}
+body {
+    margin: 0;
+    padding: 0;
+}
+#root {
+    margin: 50px auto;
+    height: 500px;
+    width: 500px;
+    text-align: center; 
+}
+#root h2{
+    color: #2994c6;
+    font-size: 36px; 
+}
+#root ul {
+    list-style-type: none;
+    background-image: url('./../public/images/bg.gif');
+    background-position:center top;
+    padding: 30px;
+    border-radius: 15px;
+}
+#root ul li {
+    background-color: #cce5ff;
+    color: #2994c6;
+    margin: 5px;
+    padding:10px;
+    text-align: left;
+    border-left: 3px solid;
+}
+#root ul input{
+    width:46%;
+    padding: 13px;
+    border-radius:10px;
+    border: none;
+}
+#root button{
+    background-color:#2994c6;
+    color: #fff;
+    height:25px;
+    float: right;
+    border: none;
+
+}
+#root .submit-btn{
+    width:46%;
+    height: 40px;
+}
