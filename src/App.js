@@ -10,8 +10,7 @@ class App extends Component{
             {text: 'Learn Reactjs'},
             {text: 'Learn Typescript'},
             {text: 'Learn Nodejs'},
-            {text: 'Learn Angular'},
-            {text: 'Learn Vuejs'}
+            {text: 'Learn Angular'}
         ]
     }
     

@@ -18,12 +18,14 @@ body {
 #root ul {
     list-style-type: none;
     background-image: url('./../public/images/bg.gif');
-    background-position:center top;
+    background-position: right 25% bottom 60%;
+    background-repeat: no-repeat;
     padding: 30px;
     border-radius: 15px;
+    height:fixed
 }
 #root ul li {
-    background-color: #cce5ff;
+    background-color: #cce5ff96;
     color: #2994c6;
     margin: 5px;
     padding:10px;
@@ -34,7 +36,8 @@ body {
     width:46%;
     padding: 13px;
     border-radius:10px;
-    border: none;
+    border:none;
+    outline: none;
 }
 #root button{
     background-color:#2994c6;
@@ -42,9 +45,9 @@ body {
     height:25px;
     float: right;
     border: none;
-
 }
 #root .submit-btn{
     width:46%;
     height: 40px;
+    border-radius:10px
 }
