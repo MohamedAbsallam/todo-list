@@ -1,8 +1,6 @@
 # todo-list
 Simple React TODO List
 
-Preview Link:https://MohamedAbsallam.github.io/todo-list
-
 ## Details:
 Simple TODO List Created with Reactjs
 
